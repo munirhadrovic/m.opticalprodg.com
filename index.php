@@ -87,10 +87,6 @@
 	                                    prostordugme.appendChild(dugme);
 	                                    }        
                                     
-                                
-                                    
-
-                                    
                             else {
                                 console.log("nije nigdje uslo default ")
                                 var prostordugme=document.getElementById('findUS');
